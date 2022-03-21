@@ -4,7 +4,6 @@
 # Avoid the temp file to be published on github
 tests/tmp/*
 tests/*.jpg
-tests/*.png
 
 *.pyc
 *.DS_Store
